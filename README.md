@@ -14,7 +14,7 @@ We will use Tweepy. Run `pip install tweepy` to install tweetpy.
 
 ## Project Motivation<a name="motivation"></a>
 
-Simple scripts for Twitter data collection with Tweepy in Python
+Simple scripts for Twitter data collection with Tweepy in Python.
 
 ## File Descriptions<a name="files"></a>
 
@@ -24,7 +24,7 @@ The following are the files available in this repository:
 
 ## Results<a name="results"></a>
 
-The results are saved in the `Titanic_Dataset.ipynb` file in the repository.
+Change the twitter keys to see the results.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
